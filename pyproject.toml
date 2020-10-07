@@ -1,0 +1,13 @@
+
+[tool]
+
+[tool.poetry]
+authors = ["Christian Muise <christian.muise@queensu.ca>"]
+description = "Assignment 2 for CISC/CMPE 204."
+license = "MIT"
+name = "test_project"
+readme = "README.md"
+version = "1.0"
+
+[tool.poetry.dependencies]
+python = "^3.8"
